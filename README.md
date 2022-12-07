@@ -1,6 +1,6 @@
 # Carlo - headful Node app framework
 
-### Carlo 
+### Carlo gets part of the @component-manager/node stack
 
 -----------------------
 
@@ -35,7 +35,7 @@ Install Carlo
 
 #### npm
 ```bash
-npm i carlo
+npm i @component-manager/node
 # yarn add carlo
 ```
 
@@ -122,11 +122,11 @@ The [pkg](https://github.com/zeit/pkg) project can be used to package a Node app
 
 #### Q: What happens if the user does not have Chrome installed?
 
-Carlo prints an error message when Chrome can not be located.
+Carlo prints an error message when Chrome can not be located. Soon it will point you to install it.
 
 #### Q: What is the minimum Chrome version that Carlo supports?
 
-Chrome Stable channel, versions 70.* are supported.
+Chrome Stable channel, till dev-channel so nightly 
 
 
 <!-- [END faq] -->
