@@ -1,6 +1,6 @@
 # Carlo - headful Node app framework
 
-### ❗Carlo is [no longer maintained](https://github.com/GoogleChromeLabs/carlo/issues/163#issuecomment-592238093). 
+### Carlo 
 
 -----------------------
 
