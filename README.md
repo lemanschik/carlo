@@ -5,7 +5,15 @@
 -----------------------
 
 
-> Carlo provides Node applications with [Google Chrome](https://www.google.com/chrome/) rendering capabilities, communicates with the locally-installed browser instance using the [Puppeteer](https://github.com/GoogleChrome/puppeteer/) project, and implements a remote call infrastructure for communication between Node and the browser.
+> Carlo provided Node applications with [Google Chrome](https://www.google.com/chrome/) rendering capabilities, communicates with the locally-installed browser instance using the [Puppeteer](https://github.com/GoogleChrome/puppeteer/) project, and implements a remote call infrastructure for communication between Node and the browser.
+
+
+##### Whats next for DWeb? 
+All functions that you see here got ported over to Puppeteer to make installation and usage more easy
+in general every one who learned about Browser Automation in general got a solid foundation.
+
+It is as it is with linux. Your good at linux as soon as you understand the tooling and how to pipe them together.
+Same is true for DWeb and ECMAScript which powers the DWeb. 
 
 ###### [API](https://github.com/GoogleChromeLabs/carlo/blob/master/API.md) | [FAQ](#faq) | [Contributing](https://github.com/GoogleChromeLabs/carlo/blob/master/CONTRIBUTING.md)
 
